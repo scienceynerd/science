@@ -5,11 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Content
+  label: Home
 - type: document
   path: content/_index.md
   label: Home
-  read_only: false
 - type: directory
   path: content/post
   label: Posts
